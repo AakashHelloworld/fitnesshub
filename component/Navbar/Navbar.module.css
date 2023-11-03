@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+}
+
+.textContainer{
+    display: flex;
+    gap: 1.81rem;
+}
+
+.linkContainer{
+    display: flex;
+    align-items: center;
+}
+
+
+.navButton{
+    border-radius: 1.875rem;
+    background:  #FF7917;
+    display: flex;
+    padding: 0.625rem 1.25rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.00469rem;
+}
+
+
+.link{
+    color: #000;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: .62rem;
+    cursor: pointer;
+}
+
+.linkContainer{
+    display: flex;
+    gap: 1.25rem;
+}
+
