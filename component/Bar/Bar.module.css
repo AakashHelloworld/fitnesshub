@@ -1,0 +1,39 @@
+.barconatiner{
+    position: relative;
+    margin-top: 6rem;
+    width: 100vw;
+    height: 3.875rem;
+}
+.blackBar{
+    width: 100vw;
+    height: 3.875rem;
+    background-color: black;
+    position: absolute;
+}
+
+.BlueBar{
+    width: 110vw;
+    height: 3.875rem;
+    background-color: #68DBFF;
+    display: flex;
+    right: -12px;
+    align-items: center;
+    position: absolute;
+    left: -12px;
+    z-index: 111;
+    transform: rotate(-2.3deg);
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.listItem{
+    color: white;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

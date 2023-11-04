@@ -1,0 +1,196 @@
+.features{
+    margin-top: 2.81rem;
+}
+
+
+.appContainer{
+    display: flex;
+    gap: 26rem;
+    padding-left: 3.5rem;
+
+}
+.textContainer{
+    width: 30%;
+}
+
+.textappprimary{
+        font-size: 1.5rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}
+
+.textappsecondary{
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color:#FF7917;
+    margin-bottom: 1rem;
+}
+
+.textappsecondaryspan{
+    color: black;
+}
+
+.textappp{
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: .63rem;
+}
+
+.textappbottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.textappbottomdiv{
+    padding: 1rem;
+    border-right: 1px solid black;
+}
+.textappbottomdivnoborder{
+    padding: 1rem
+}
+
+
+.textappbottomdivh5{
+    color: #FF7917;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-bottom: .62rem;
+}
+
+
+.textappbottomdivp{
+    color: #6C6C6C;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.appimage{
+    display: flex;
+    gap: 6.23rem;
+    flex-direction: row;
+    align-items: center;
+}
+
+.appimagedivdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3.6rem;
+}
+
+.appimagedivbutton{
+display: flex;
+padding: 0.625rem 1.25rem;
+justify-content: center;
+align-items: center;
+gap: 0.625rem;
+color: white;
+border-radius: 1.875rem;
+background:  #FF7917;
+border: none;
+cursor: pointer;
+margin-bottom: 3.6rem;
+}
+
+.appimagedivdivImage{
+    display: flex;
+    justify-content: center;
+}
+
+.benefits{
+    display: flex;
+    margin-top: 6rem;
+    padding-left: 3.5rem;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+}
+
+.benefitsSecondText{
+    border-left: 1px solid gray;
+    padding: 1rem;
+}
+
+.benefitsTexth3{
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.00625rem;
+    margin-bottom: 1.25rem;
+}
+
+.benefitsTexth4{
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.0075rem;
+    color: #FF7917;
+}
+
+.benefitsTexth5{
+    color: black;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.0075rem;
+}
+
+.benefitsSecondText{
+    width: 40%;
+}
+
+.Allfeatures{
+    display: flex;
+    padding: 3.5rem;
+    justify-content: space-between;
+}
+
+.featureSub{
+    flex-basis: 250px;
+}
+
+.featureSubh3{
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+    color: #FF7917;
+    margin-bottom: .81rem;
+    margin-top: 1.88rem;
+}
+.featureSubp{
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.featureSubImageContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.circle{
+    width: 3.75rem;
+    height: 3.75rem;
+    background-color: rgba(255, 121, 23, 0.10);
+    border-radius: 50% 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
